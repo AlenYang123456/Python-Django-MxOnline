@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/extra_apps/xadmin/static/xadmin/vendor/font-awesome/css/font-awesome.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/extra_apps/xadmin/static/xadmin/vendor/font-awesome/css/font-awesome.min.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/static/css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/static/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/static/img" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/static/js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/static/media" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/active_fail.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/base.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/forgetpwd.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/index.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/org-list.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/templates/password_reset.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/send_success.html" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
